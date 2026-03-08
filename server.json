@@ -1,0 +1,30 @@
+{
+  "": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.x402-index/x402search-mcp",
+  "description": "Search 13,000+ x402-enabled APIs from your AI agent. Powered by x402search.xyz",
+  "repository": {
+    "url": "https://github.com/x402-index/x402search-mcp",
+    "source": "github",
+    "id": "1175829983"
+  },
+  "version": "1.0.2",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "x402search-mcp",
+      "version": "1.0.2",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "PRIVATE_KEY",
+          "description": "EVM private key for x402 payment signing",
+          "isRequired": true,
+          "isSecret": true,
+          "format": "string"
+        }
+      ]
+    }
+  ]
+}
