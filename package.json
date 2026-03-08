@@ -1,11 +1,20 @@
 {
   "name": "x402search-mcp",
-  "version": "1.0.0",
+  "version": "1.0.2",
+  "mcpName": "io.github.x402-index/x402search-mcp",
   "description": "Search 13,000+ x402-enabled APIs from your AI agent. Powered by x402search.xyz",
   "type": "module",
   "main": "index.js",
-  "bin": { "x402search-mcp": "./index.js" },
-  "scripts": { "start": "node index.js" },
+  "bin": {
+    "x402search-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x402-index/x402search-mcp.git"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.9.0",
     "@x402/axios": "latest",
