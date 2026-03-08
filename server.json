@@ -1,5 +1,5 @@
 {
-  "": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.x402-index/x402search-mcp",
   "description": "Search 13,000+ x402-enabled APIs from your AI agent. Powered by x402search.xyz",
   "repository": {
@@ -13,9 +13,7 @@
       "registryType": "npm",
       "identifier": "x402search-mcp",
       "version": "1.0.2",
-      "transport": {
-        "type": "stdio"
-      },
+      "transport": {"type": "stdio"},
       "environmentVariables": [
         {
           "name": "PRIVATE_KEY",
