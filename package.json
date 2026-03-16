@@ -6,7 +6,7 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "x402search-mcp": "./index.js"
+    "x402search-mcp": "index.js"
   },
   "scripts": {
     "start": "node index.js"
