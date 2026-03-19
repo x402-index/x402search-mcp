@@ -1,5 +1,5 @@
 # x402search MCP Server
-Search 13,000+ x402-enabled HTTP APIs from any MCP-compatible agent.
+Search 14,000+ x402-enabled HTTP APIs from any MCP-compatible agent.
 
 **Version:** 1.0.3 · **License:** MIT · **Cost:** $0.01 USDC per search · Base mainnet · No account needed
 
