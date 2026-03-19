@@ -1,6 +1,8 @@
 # x402search MCP Server
 Search 14,000+ x402-enabled HTTP APIs from any MCP-compatible agent.
 
+[![x402search MCP server](https://glama.ai/mcp/servers/x402-index/x402search-mcp/badges/card.svg)](https://glama.ai/mcp/servers/x402-index/x402search-mcp)
+
 **Version:** 1.0.3 · **License:** MIT · **Cost:** $0.01 USDC per search · Base mainnet · No account needed
 
 **npm:** https://www.npmjs.com/package/x402search-mcp  
