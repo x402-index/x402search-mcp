@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "x402search": {
+      "command": "npx",
+      "args": ["-y", "x402search-mcp@1.0.3"],
+      "env": {
+        "EVM_PRIVATE_KEY": "<YOUR_PRIVATE_KEY>"
+      }
+    }
+  }
+}
