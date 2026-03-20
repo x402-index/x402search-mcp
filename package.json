@@ -1,6 +1,6 @@
 {
   "name": "x402search-mcp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "mcpName": "io.github.x402-index/x402search-mcp",
   "description": "Search 13,000+ x402-enabled APIs from your AI agent. Powered by x402search.xyz",
   "type": "module",
@@ -12,13 +12,24 @@
     "start": "node index.js"
   },
   "keywords": [
-    "x402", "mcp", "api-discovery", "ai-agents", "web3",
-    "base", "usdc", "defi", "micropayments", "crypto",
-    "model-context-protocol", "autonomous-agents", "acp", "virtuals"
+    "x402",
+    "mcp",
+    "api-discovery",
+    "ai-agents",
+    "web3",
+    "base",
+    "usdc",
+    "defi",
+    "micropayments",
+    "crypto",
+    "model-context-protocol",
+    "autonomous-agents",
+    "acp",
+    "virtuals"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/x402-index/x402search-mcp.git"
+    "url": "git+https://github.com/x402-index/x402search-mcp.git"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.9.0",
