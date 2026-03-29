@@ -1,8 +1,9 @@
 {
   "name": "x402search-mcp",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "mcpName": "io.github.x402-index/x402search-mcp",
   "description": "Search 13,000+ x402-enabled APIs from your AI agent. Powered by x402search.xyz",
+  "license": "MIT",
   "type": "module",
   "main": "index.js",
   "bin": {
